@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	background-color:#82C5D2;
+	}
+	
+#loginForm{
+	
+	width:auto;
+	height:auto;
+	background-color:#FFF;
+	display:inline-block;
+	
+	
+	
+	}
+.fieldset{
+       display:inline;
+}
